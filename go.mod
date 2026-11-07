@@ -4,7 +4,7 @@ go 1.26.10
 
 require (
 	github.com/gostaticanalysis/analysisutil v0.7.1
-	github.com/gostaticanalysis/comment v1.4.2
+	github.com/gostaticanalysis/comment v1.5.0
 	github.com/gostaticanalysis/testutil v0.4.0
 	golang.org/x/tools v0.26.0
 )
